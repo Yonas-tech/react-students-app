@@ -5,4 +5,5 @@ This react app takes stored data to display each student's name, bio, and scores
 The following is a screenshot of the app. 
 
 
-[App Screeshot]('./src/Images/')
+![App Screeshot]('./src/Images/pageScreenshot.jpg')
+
